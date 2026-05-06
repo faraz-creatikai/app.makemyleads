@@ -1,4 +1,4 @@
-export const BASE_URL = "http://localhost:5000/api";
+export const BASE_URL = "https://appapi.makemyleads.com/api";
 //https://live-project-backend-1.onrender.com
 //https://propertyapi.aileadgenie.cloud/api
 //https://apidomain.ibigdata.in
@@ -6,7 +6,7 @@ export const BASE_URL = "http://localhost:5000/api";
 //https://apiwbh.ibigdata.in
 //https://apiproperty.ibigdata.in
 //https://apitravel.ibigdata.in
-//https://appapi.estateai.in
+//https://appapi.makemyleads.com
 
 export const API_ROUTES = {
   CONTACT: {
